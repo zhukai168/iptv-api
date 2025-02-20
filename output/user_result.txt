@@ -1,17 +1,17 @@
 🕘️更新时间,#genre#
-2025-02-20 06:20:05,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-02-20 18:22:50,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV-1,http://php.jdshipin.com:8880/cqyx.php?id=CCTV1HD
-CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-1,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226016
+CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 CCTV-2,http://php.jdshipin.com:8880/cqyx.php?id=CCTV2HD
 CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 CCTV-2,http://111.29.9.33:6610/000000001000/1000000001000012442/index.m3u8?channel-id=bestzb&Contentid=1000000001000012442&livemode=1&stbId=3
 CCTV-2,http://120.192.226.35:8009/hls/502/index.m3u8
-CCTV-2,http://175.31.21.146:4480/hls/2/index.m3u8
+CCTV-2,http://120.238.94.10:9901/tsfile/live/1019_1.m3u8
 CCTV-3,http://php.jdshipin.com:8880/cqyx.php?id=CCTV3HD
 CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
 CCTV-3,http://111.29.9.33:6610/000000001000/1000000001000011218/index.m3u8?channel-id=bestzb&Contentid=1000000001000011218&livemode=1&stbId=3
@@ -26,7 +26,7 @@ CCTV-5,http://php.jdshipin.com:8880/cqyx.php?id=CCTV5HD
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
 CCTV-5,http://111.29.9.33:6610/000000001000/1000000001000004794/index.m3u8?channel-id=bestzb&Contentid=1000000001000004794&livemode=1&stbId=3
 CCTV-5,http://120.192.226.35:8009/hls/503/index.m3u8
-CCTV-5,http://175.31.21.146:4480/hls/5/index.m3u8
+CCTV-5,http://183.94.1.118:8801/tsfile/live/0005_1.m3u8
 CCTV-5+,http://php.jdshipin.com:8880/cqyx.php?id=CCTV5SPORTHD
 CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p⁭
@@ -75,13 +75,13 @@ CCTV-13,http://120.238.94.10:9901/tsfile/live/1031_1.m3u8
 CCTV-14,http://php.jdshipin.com:8880/cqyx.php?id=CCTVSEHD
 CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
 CCTV-14,http://111.29.9.33:6610/000000001000/1000000001000008170/index.m3u8?channel-id=bestzb&Contentid=1000000001000008170&livemode=1&stbId=3
-CCTV-14,http://newtv.fun:35455/gaoma/cctv14.m3u8
-CCTV-14,http://lt.hxtre.com:35455/itv/1000000001000008170.m3u8?cdn=ystenlive
+CCTV-14,http://183.94.1.118:8801/tsfile/live/0014_1.m3u8
+CCTV-14,https://api.olelive.com/dis/live/CCTV14HD/hls.m3u8
 CCTV-15,http://php.jdshipin.com:8880/cqyx.php?id=CCTV15HD
 CCTV-15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
 CCTV-15,http://111.29.9.33:6610/000000001000/1000000002000008163/index.m3u8?channel-id=bestzb&Contentid=1000000002000008163&livemode=1&stbId=3
 CCTV-15,http://120.192.226.35:8009/hls/15/index.m3u8
-CCTV-15,http://newtv.fun:35455/gaoma/cctv15.m3u8
+CCTV-15,http://183.94.1.118:8801/tsfile/live/0015_1.m3u8
 CCTV-16,http://php.jdshipin.com:8880/cqyx.php?id=CCTV16HD
 CCTV-16,http://php.jdshipin.com:8880/cqyx.php?id=CCTV16_4K
 CCTV-16,http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
@@ -91,7 +91,7 @@ CCTV-17,http://php.jdshipin.com:8880/cqyx.php?id=CCTV17HD
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 CCTV-17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?channel-id=bestzb&Contentid=1000000005000056836&livemode=1&stbId=3
 CCTV-17,http://120.238.94.10:9901/tsfile/live/1048_1.m3u8
-CCTV-17,http://newtv.fun:35455/gaoma/cctv17.m3u8
+CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
@@ -123,16 +123,16 @@ CCTV-17,http://newtv.fun:35455/gaoma/cctv17.m3u8
 湖北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226477
 湖北卫视,http://111.29.9.33:6610/000000001000/1000000001000010355/index.m3u8?channel-id=bestzb&Contentid=1000000001000010355&livemode=1&stbId=3
 湖北卫视,http://120.192.226.35:8009/hls/39/index.m3u8
-湖北卫视,http://live.wqwqwq.sbs/itv/1000000001000024621.m3u8?cdn=ystenlive
+湖北卫视,http://183.94.1.118:8801/tsfile/live/0132_1.m3u8
 黑龙江卫视,http://php.jdshipin.com:8880/cqyx.php?id=HEILONGJIANGHD
 黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226585
 黑龙江卫视,http://111.29.9.33:6610/000000001000/1000000001000001925/index.m3u8?channel-id=bestzb&Contentid=1000000001000001925&livemode=1&stbId=3
 黑龙江卫视,http://120.192.226.35:8009/hls/38/index.m3u8
-黑龙江卫视,http://live.wqwqwq.sbs/itv/1000000001000001925.m3u8?cdn=ystenlive
+黑龙江卫视,http://lu.wqwqwq.sbs/itv/1000000001000001925.m3u8?cdn=ystenlive
 安徽卫视,http://php.jdshipin.com:8880/cqyx.php?id=ANHUISD
 安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
-安徽卫视,http://223.241.247.214:85//tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://111.29.9.33:6610/000000001000/1000000001000020780/index.m3u8?channel-id=bestzb&Contentid=1000000001000020780&livemode=1&stbId=3
+安徽卫视,http://223.241.247.214:85//tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://120.192.226.35:8009/hls/42/index.m3u8
 重庆卫视,http://php.jdshipin.com:8880/cqyx.php?id=CHONGQINGHD
 重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226409
@@ -168,12 +168,12 @@ CCTV-17,http://newtv.fun:35455/gaoma/cctv17.m3u8
 海南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226465
 海南卫视,http://z.b.bkpcp.top/m.php?id=hinws
 海南卫视,http://111.29.9.33:6610/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
-海南卫视,http://live.wqwqwq.sbs/itv/5000000004000006211.m3u8?cdn=bestzb
+海南卫视,http://lu.wqwqwq.sbs/itv/5000000004000006211.m3u8?cdn=bestzb
 河北卫视,http://php.jdshipin.com:8880/cqyx.php?id=HEBEISD
 河北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226406
 河北卫视,http://111.29.9.33:6610/000000001000/1000000002000017118/index.m3u8?channel-id=bestzb&Contentid=1000000002000017118&livemode=1&stbId=3
 河北卫视,http://120.192.226.35:8009/hls/55/index.m3u8
-河北卫视,http://live.wqwqwq.sbs/itv/5000000006000040016.m3u8?cdn=bestzb
+河北卫视,http://lu.wqwqwq.sbs/itv/5000000006000040016.m3u8?cdn=bestzb
 河南卫视,http://php.jdshipin.com:8880/cqyx.php?id=HENANHD
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
 河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
@@ -188,7 +188,7 @@ CCTV-17,http://newtv.fun:35455/gaoma/cctv17.m3u8
 江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226310
 江苏卫视,http://111.29.9.33:6610/000000001000/1000000001000001828/index.m3u8?channel-id=bestzb&Contentid=1000000001000001828&livemode=1&stbId=3
 江苏卫视,http://120.192.226.35:8009/hls/33/index.m3u8
-江苏卫视,http://tvcdn.kkmz.top/itv/6000000001000014861.m3u8?cdn=wasusyt
+江苏卫视,http://183.94.1.118:8801/tsfile/live/0127_1.m3u8
 江西卫视,http://php.jdshipin.com:8880/cqyx.php?id=JIANGXIHD
 江西卫视,http://php.jdshipin.com:8880/jxtv2.php?id=1
 江西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226344
@@ -223,7 +223,7 @@ CCTV-17,http://newtv.fun:35455/gaoma/cctv17.m3u8
 山西卫视,http://120.192.226.35:8009/hls/49/index.m3u8
 山西卫视,http://120.238.94.10:9901/tsfile/live/1071_1.m3u8
 山西卫视,http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
-山西卫视,http://58.221.214.82:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://110.53.52.63:8888/newlive/live/hls/43/live.m3u8
 陕西卫视,http://120.192.226.35:8009/hls/17/index.m3u8
 陕西卫视,http://120.238.94.10:9901/tsfile/live/1070_1.m3u8
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=2811d59f756bd877ff82baab357029babfd42a225de3fc15373dd44a1eebc8fbe99b4cb84744baa6a1a884e6234a5608467ca1188361e65f980ee6900e1e4d76728f01cb0b40114546b51af18f
@@ -236,8 +236,8 @@ CCTV-17,http://newtv.fun:35455/gaoma/cctv17.m3u8
 四川卫视,http://120.192.226.35:8009/hls/41/index.m3u8
 深圳卫视,http://php.jdshipin.com:8880/cqyx.php?id=SHENZHENHD
 深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 深圳卫视,http://111.29.9.33:6610/000000001000/1000000001000009227/index.m3u8?channel-id=bestzb&Contentid=1000000001000009227&livemode=1&stbId=3
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 深圳卫视,http://120.192.226.35:8009/hls/37/index.m3u8
 三沙卫视,http://php.jdshipin.com:8880/cqyx.php?id=SANSHASD
 三沙卫视,https://livessws.hnntv.cn/live/ssws20250114.m3u8?_upt=59ccdc261738935307
@@ -248,7 +248,7 @@ CCTV-17,http://newtv.fun:35455/gaoma/cctv17.m3u8
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
 天津卫视,http://111.29.9.33:6610/000000001000/1000000001000000831/index.m3u8?channel-id=bestzb&Contentid=1000000001000000831&livemode=1&stbId=3
 天津卫视,http://120.192.226.35:8009/hls/44/index.m3u8
-天津卫视,http://live.wqwqwq.sbs/itv/5000000004000006827.m3u8?cdn=bestzb
+天津卫视,http://13937899.xyz:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏卫视,http://php.jdshipin.com:8880/cqyx.php?id=XIZANGSD
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
@@ -281,11 +281,11 @@ CCTV-17,http://newtv.fun:35455/gaoma/cctv17.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://stream.qhbtv.com/adws/sd/live.m3u8
@@ -296,11 +296,11 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
-东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 🎬电影频道,#genre#
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
