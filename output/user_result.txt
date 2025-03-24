@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-24 06:21:13,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-03-24 18:24:46,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -16,7 +16,7 @@ CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
 CCTV-3,http://php.jdshipin.com:8880/cqyx.php?id=CCTV3HD
 CCTV-3,http://tvbox6.icu/tv/migu.php?id=cctv3
 CCTV-3,http://1.24.39.180:9003/hls/3/index.m3u8
-CCTV-3,http://110.53.52.63:8888/newlive/live/hls/4/live.m3u8
+CCTV-3,http://110.81.206.138:49231/tsfile/live/23003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://php.jdshipin.com:8880/cqyx.php?id=CCTV4HD
 CCTV-4,http://php.jdshipin.com:8880/cqyx.php?id=CCTV4K
 CCTV-4,http://php.jdshipin.com:8880/bst2.php?id=cctv4k/15000000
@@ -100,7 +100,7 @@ CCTV-17,http://1.24.39.180:9003/hls/61/index.m3u8
 广东卫视,http://goo.bkpcp.top/mg/gdws
 广东卫视,http://tvbox6.icu/tv/migu.php?id=gdws
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-香港卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hkphoenix_twn/playlist.m3u8
+香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://stream.qhbtv.com/adws/sd/live.m3u8
@@ -108,7 +108,7 @@ CCTV-17,http://1.24.39.180:9003/hls/61/index.m3u8
 浙江卫视,http://php.jdshipin.com:8880/cqyx.php?id=ZHEJIANGHD
 浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws
 浙江卫视,http://goo.bkpcp.top/mg/zjws
-浙江卫视,http://58.243.224.244:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
 湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226307
 湖南卫视,http://php.jdshipin.com:8880/cqyx.php?id=HUNANHD
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
@@ -147,8 +147,8 @@ CCTV-17,http://1.24.39.180:9003/hls/61/index.m3u8
 东南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226341
 东南卫视,http://php.jdshipin.com:8880/cqyx.php?id=DONGNANHD
 东南卫视,http://z.b.bkpcp.top/m.php?id=dnws
-东南卫视,http://36.32.174.67:60080/newlive/live/hls/33/live.m3u8
-东南卫视,http://110.53.52.63:8888/newlive/live/hls/47/live.m3u8
+东南卫视,http://aa3.kkwk111.top/fj.php?id=5
+东南卫视,http://110.81.206.138:49231/tsfile/live/23021_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
 甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4
 甘肃卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225633
@@ -158,27 +158,27 @@ CCTV-17,http://1.24.39.180:9003/hls/61/index.m3u8
 广西卫视,http://php.jdshipin.com:8880/cqyx.php?id=GUANGXIHD
 广西卫视,http://z.b.bkpcp.top/m.php?id=gxws
 广西卫视,http://tvbox6.icu/tv/migu.php?id=gxws
-广西卫视,http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
+广西卫视,http://110.81.206.138:49231/tsfile/live/23055_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226474
 贵州卫视,http://php.jdshipin.com:8880/cqyx.php?id=GUIZHOUHD
 贵州卫视,http://z.b.bkpcp.top/m.php?id=gzws
 贵州卫视,http://goo.bkpcp.top/mg/gzws
-贵州卫视,http://tvbox6.icu/tv/migu.php?id=gzws
+贵州卫视,http://43.129.81.169/9bwaz8y2.gzstv.com/live/CH01_lo.m3u8
 海南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226465
 海南卫视,http://php.jdshipin.com:8880/cqyx.php?id=HAINANSD
 海南卫视,http://z.b.bkpcp.top/m.php?id=hinws
 海南卫视,http://tvbox6.icu/tv/migu.php?id=hinws
-海南卫视,http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
+海南卫视,http://110.81.206.138:49231/tsfile/live/23056_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226406
 河北卫视,http://php.jdshipin.com:8880/cqyx.php?id=HEBEISD
 河北卫视,http://z.b.bkpcp.top/m.php?id=hbws
 河北卫视,http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
-河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
+河北卫视,http://yc.myds.me:35455/itv/5000000006000040016.m3u8?cdn=bestzb
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
 河南卫视,http://php.jdshipin.com:8880/cqyx.php?id=HENANHD
 河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
 河南卫视,http://tvbox6.icu/tv/migu.php?id=hnws
-河南卫视,http://36.32.174.67:60080/newlive/live/hls/35/live.m3u8
+河南卫视,http://110.81.206.138:49231/tsfile/live/23047_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226397
 吉林卫视,http://php.jdshipin.com:8880/cqyx.php?id=JILINHD
 吉林卫视,http://z.b.bkpcp.top/m.php?id=jlws
@@ -188,12 +188,12 @@ CCTV-17,http://1.24.39.180:9003/hls/61/index.m3u8
 江苏卫视,http://php.jdshipin.com:8880/cqyx.php?id=JIANGSUHD
 江苏卫视,http://tvbox6.icu/tv/migu.php?id=jsws
 江苏卫视,http://58.243.224.244:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=0&authid=0
-江苏卫视,http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8
+江苏卫视,http://110.81.206.138:49231/tsfile/live/23037_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226344
 江西卫视,http://php.jdshipin.com:8880/cqyx.php?id=JIANGXIHD
 江西卫视,http://php.jdshipin.com:8880/jxtv2.php?id=1
-江西卫视,http://tvbox6.icu/tv/migu.php?id=jxws
 江西卫视,http://43.129.81.169/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
+江西卫视,http://tvbox6.icu/tv/migu.php?id=jxws
 辽宁卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226546
 辽宁卫视,http://php.jdshipin.com:8880/cqyx.php?id=LIAONINGHD
 辽宁卫视,http://z.b.bkpcp.top/m.php?id=lnws
@@ -233,22 +233,22 @@ CCTV-17,http://1.24.39.180:9003/hls/61/index.m3u8
 四川卫视,http://php.jdshipin.com:8880/cqyx.php?id=SICHUANHD
 四川卫视,http://z.b.bkpcp.top/m.php?id=scws
 四川卫视,http://58.243.224.244:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=0
-四川卫视,http://36.32.174.67:60080/newlive/live/hls/29/live.m3u8
+四川卫视,http://110.81.206.138:49231/tsfile/live/23049_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313
 深圳卫视,http://php.jdshipin.com:8880/cqyx.php?id=SHENZHENHD
 深圳卫视,http://z.b.bkpcp.top/m.php?id=szws
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 三沙卫视,http://php.jdshipin.com:8880/cqyx.php?id=SANSHASD
+三沙卫视,http://58.243.224.244:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0
 三沙卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9531be&tk=822270345d4c
 三沙卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=958c9a&tk=822270345d4c
 三沙卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0161&tk=f6cc1e0a0e1a
-三沙卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9983&tk=e503191f8e20
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
 天津卫视,http://php.jdshipin.com:8880/cqyx.php?id=TIANJINHD
 天津卫视,http://58.243.224.244:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0
+天津卫视,http://110.81.206.138:49231/tsfile/live/23045_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://36.32.174.67:60080/newlive/live/hls/26/live.m3u8
-天津卫视,http://110.53.52.63:8888/newlive/live/hls/42/live.m3u8
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226433
@@ -287,7 +287,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-香港卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hkphoenix_twn/playlist.m3u8
+香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://stream.qhbtv.com/adws/sd/live.m3u8
@@ -317,7 +317,7 @@ CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy
 CHC动作电影,http://tvbox6.icu/tv/migu.php?id=chcdzdy
 CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
-CHC高清电影,http://180.213.174.225:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
@@ -327,11 +327,9 @@ CHC高清电影,http://3501776.xyz:35455/itv/1000000004000024282.m3u8?cdn=ystenl
 经典电影,http://61.133.118.228:5001/yy/1356363815
 经典电影,http://lxajh.top/tv/douyu.php?id=74374
 经典电影,https://vod1.ttbfp2.com/20220316/nStdon8E/index.m3u8
+无线星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV#rtmp://58.200.131.2:1935/livetv/startv#rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
-
-🈳无结果频道,#genre#
-无线星河,url
