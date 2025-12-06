@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-06 06:19:04,http://112.123.206.32:808/hls/1/index.m3u8
+2025-12-06 18:20:12,http://112.123.206.32:808/hls/1/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8
@@ -85,8 +85,8 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=405252f2e3e9d074b85
 CCTV-16,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226888/1.m3u8
 CCTV-16,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226888/.m3u8
 CCTV-16,http://gmxw.7766.org:808/hls/169/index.m3u8
-CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-16,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
+CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e38326199e2ee0a1b7bd0b0dd192935d111a196fb0a283c3070537cce6951301b2cc3e6f7de31ffdb9b7c4095d6c008d8333e21e5070375ca86124640133c9fa4c6ffa847f
 CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=c505aab29000098934f1ca9d5242dc3a2190c763d3b8cee6e169b420eed692acda4eda40e637ee80eda6dd8a7728facd6367052eb645c558fe35bc0b716d932a07debbc8759ebcde15c9c7f920
 CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=d63fc572ecc0257295e450bf7a5fc93e48375c1f7a6db73b9ee6a5587a776b53b22fcdaf1ecbca5059a2aa2e461e5a3d5381a6b4b8316d7dac6f0d6d701c34dc91e96415f35e46e35467b52736
@@ -100,6 +100,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=81ac3a9691673bbadc0
 广东卫视,http://sh.lnott.top:880/dx40.m3u8
 广东卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
 浙江卫视,http://cssbyd.imwork.net:8082/hls/22/index.m3u8
 浙江卫视,http://sh.lnott.top:880/dx32.m3u8
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
@@ -109,7 +110,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=81ac3a9691673bbadc0
 湖南卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/.m3u8
 湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://111.61.236.247:9081/hls/24/index.m3u8
+湖南卫视,http://139.196.151.191:2051/rtp/239.45.3.228:5140
 北京卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8
 北京卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/.m3u8
 北京卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226571/.m3u8
@@ -230,8 +231,8 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=81ac3a9691673bbadc0
 四川卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/.m3u8
 四川卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226523/.m3u8
 四川卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226924/.m3u8
-深圳卫视,http://1.31.14.70:54321/hls/40/index.m3u8
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+深圳卫视,http://1.31.14.70:54321/hls/40/index.m3u8
 深圳卫视,http://sh.lnott.top:880/dx61.m3u8
 深圳卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
 深圳卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226573/.m3u8
@@ -274,12 +275,13 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=81ac3a9691673bbadc0
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5282&tk=2aca1ad9a849
 凤凰资讯,http://108.181.20.197/livehttpplay?channel_id=30015
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来育乐,rtmp://220.130.201.73/sat/tv701
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
