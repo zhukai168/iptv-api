@@ -1,17 +1,17 @@
 🕘️更新时间,#genre#
-2026-02-25 18:45:10,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-26 06:25:04,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV-1,http://139.196.151.191:2051/rtp/239.45.3.145:5140
 CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
-CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
-CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
+CCTV-1,http://play.kankanlive.com/live/1661761962676984.m3u8
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-2,http://139.196.151.191:2051/rtp/239.45.1.109:5140
 CCTV-2,https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
+CCTV-2,https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8
 CCTV-2,http://61.136.172.236:9901/tsfile/live/0002_1.m3u8
-CCTV-2,http://61.136.172.236:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-3,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv3&ChannelID=cctv3&videoTVChannel=cctv3&P2PChannelID=pd://cctv_p2p_cctv3
@@ -29,14 +29,14 @@ CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 CCTV-5,http://139.196.151.191:2051/rtp/239.45.1.69:5140
 CCTV-5+,http://120.238.94.82:9901/tsfile/live/1030_1.m3u8
 CCTV-5+,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8
 CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 CCTV-6,http://139.196.151.191:2051/rtp/239.45.1.70:5140
 CCTV-6,https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
+CCTV-6,https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
 CCTV-6,http://61.136.172.236:9901/tsfile/live/0006_1.m3u8
 CCTV-6,http://61.136.172.236:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV-7,http://139.196.151.191:2051/rtp/239.45.3.56:5140
 CCTV-7,https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
@@ -45,22 +45,22 @@ CCTV-8,http://23.237.228.134/live5/CCTV8.m3u8
 CCTV-8,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv8&ChannelID=cctv8&videoTVChannel=cctv8&P2PChannelID=pd://cctv_p2p_cctv8
 CCTV-8,http://139.196.151.191:2051/rtp/239.45.1.71:5140
 CCTV-8,https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
-CCTV-8,http://61.136.172.236:9901/tsfile/live/0008_1.m3u8
+CCTV-8,https://api.olelive.com/dis/live/CCTV8HD/hls.m3u8
 CCTV-9,http://23.237.228.134/live5/CCTV9.m3u8
 CCTV-9,http://t.live.cntv.cn/m3u8/cctv400.m3u8
 CCTV-9,http://139.196.151.191:2051/rtp/239.45.3.4:5140
 CCTV-9,https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8
-CCTV-9,http://61.136.172.236:9901/tsfile/live/0009_1.m3u8
+CCTV-9,https://api.olelive.com/dis/live/CCTV9HD/hls.m3u8
 CCTV-10,http://23.237.228.134/live5/CCTV10.m3u8
 CCTV-10,http://139.196.151.191:2051/rtp/239.45.3.8:5140
 CCTV-10,https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
-CCTV-10,http://61.136.172.236:9901/tsfile/live/0010_1.m3u8
 CCTV-10,https://api.olelive.com/dis/live/CCTV10HD/hls.m3u8
+CCTV-10,http://61.136.172.236:9901/tsfile/live/0010_1.m3u8
 CCTV-11,http://69.30.246.194/live/cctv11.m3u8
 CCTV-11,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv11&ChannelID=cctv11&videoTVChannel=cctv11&P2PChannelID=pd://cctv_p2p_cctv11
 CCTV-11,http://139.196.151.191:2051/rtp/239.45.1.196:5140
 CCTV-11,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
-CCTV-11,http://61.136.172.236:9901/tsfile/live/0011_1.m3u8
+CCTV-11,https://api.olelive.com/dis/live/CCTV11HD/hls.m3u8
 CCTV-12,http://69.30.246.194/live/cctv12.m3u8
 CCTV-12,http://23.237.228.134/live3/CCTV12.m3u8
 CCTV-12,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv12&ChannelID=cctv12&videoTVChannel=cctv12&P2PChannelID=pd://cctv_p2p_cctv12
@@ -69,8 +69,8 @@ CCTV-12,https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://139.196.151.191:2051/rtp/239.45.1.198:5140
 CCTV-13,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
-CCTV-13,http://61.136.172.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://61.136.172.236:9901/tsfile/live/0013_1.m3u8
+CCTV-13,https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8
+CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-14,http://69.30.246.194/live/cctv14.m3u8
 CCTV-14,http://23.237.228.134/live3/CCTV14.m3u8
@@ -101,7 +101,7 @@ CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 浙江卫视,http://69.30.246.194/live/zjws.m3u8
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://139.196.151.191:2051/rtp/239.45.3.228:5140
@@ -201,8 +201,8 @@ CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8
 深圳卫视,http://139.196.151.191:2051/rtp/239.45.3.231:5140
 深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8
-三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
 三沙卫视,http://139.196.151.191:2051/rtp/239.45.1.82:5140
 天津卫视,http://23.237.228.134/live8/tianjing.m3u8
 天津卫视,http://38.75.136.137:98/gslb/dsdqca/tjwshd.m3u8?auth=test20251009
@@ -222,18 +222,18 @@ CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8
 翡翠台,rtmp://patrol.psn.asia/live/gdfc
 翡翠台,rtmp://szgasszyaxtgl.szius.com/live/gdfc
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来育乐,rtmp://220.130.201.73/sat/tv701
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,rtmp://116.93.98.236/sat/tv331.flv
 东森超视,rtmp://60.248.77.83/sat/tv331
 
