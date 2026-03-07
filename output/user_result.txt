@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-07 18:18:51,http://139.196.151.191:2051/rtp/239.45.3.145:5140
+2026-03-08 06:15:52,http://139.196.151.191:2051/rtp/239.45.3.145:5140
 
 📺央视频道,#genre#
 CCTV-1,http://139.196.151.191:2051/rtp/239.45.3.145:5140
@@ -67,7 +67,7 @@ CCTV-13,http://139.196.151.191:2051/rtp/239.45.1.198:5140
 CCTV-13,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
 CCTV-13,http://61.136.172.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://61.136.172.236:9901/tsfile/live/0013_1.m3u8
-CCTV-13,https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8
+CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-14,http://139.196.151.191:2051/rtp/239.45.3.23:5140
 CCTV-14,https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
 CCTV-14,http://61.136.172.236:9901/tsfile/live/0014_1.m3u8
@@ -164,8 +164,8 @@ CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8
 深圳卫视,http://139.196.151.191:2051/rtp/239.45.3.231:5140
 深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8
-三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
 三沙卫视,http://139.196.151.191:2051/rtp/239.45.1.82:5140
 天津卫视,http://38.75.136.137:98/gslb/dsdqca/tjwshd.m3u8?auth=test20251009
 天津卫视,http://139.196.151.191:2051/rtp/239.45.1.124:5140
@@ -182,11 +182,11 @@ CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8
 翡翠台,rtmp://patrol.psn.asia/live/gdfc
 翡翠台,rtmp://szgasszyaxtgl.szius.com/live/gdfc
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来育乐,rtmp://220.130.201.73/sat/tv701
