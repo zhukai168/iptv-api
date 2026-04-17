@@ -1,12 +1,12 @@
 🕘️更新时间,#genre#
-2026-04-17 06:33:48,http://139.196.151.191:2051/rtp/239.45.3.145:5140
+2026-04-17 18:49:48,http://139.196.151.191:2051/rtp/239.45.3.145:5140
 
 📺央视频道,#genre#
 CCTV-1,http://139.196.151.191:2051/rtp/239.45.3.145:5140
 CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
+CCTV-1,http://play.kankanlive.com/live/1661761962676984.m3u8
 CCTV-2,http://139.196.151.191:2051/rtp/239.45.1.109:5140
 CCTV-2,https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
 CCTV-2,http://61.136.172.236:9901/tsfile/live/0002_1.m3u8
@@ -87,9 +87,9 @@ CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8
 广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&amp;d=d396e340de48108a9576134d5b090354&amp;k=60ede3db45d8640ab1db2b9f0dfa7549&amp;t=1671539989
 湖南卫视,http://139.196.151.191:2051/rtp/239.45.3.228:5140
@@ -173,18 +173,18 @@ CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8
 翡翠台,rtmp://patrol.psn.asia/live/gdfc
 翡翠台,rtmp://szgasszyaxtgl.szius.com/live/gdfc
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来育乐,rtmp://220.130.201.73/sat/tv701
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,rtmp://116.93.98.236/sat/tv331.flv
 东森超视,rtmp://60.248.77.83/sat/tv331
 
