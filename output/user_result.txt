@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2026-07-26 06:45:38,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+2026-07-26 19:16:21,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
-CCTV-1,http://play.kankanlive.com/live/1661761962676984.m3u8
 CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
+CCTV-1,http://play.kankanlive.com/live/1661761962676984.m3u8
 CCTV-2,https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
 CCTV-2,https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8
 CCTV-3,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv3&ChannelID=cctv3&videoTVChannel=cctv3&P2PChannelID=pd://cctv_p2p_cctv3
