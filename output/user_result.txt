@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-08-31 08:03:24,http://139.196.151.191:2051/rtp/239.45.3.145:5140
+2026-09-01 01:22:04,http://139.196.151.191:2051/rtp/239.45.3.145:5140
 
 📺央视频道,#genre#
 CCTV-1,http://139.196.151.191:2051/rtp/239.45.3.145:5140
 CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
-CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
 CCTV-1,http://play.kankanlive.com/live/1661761962676984.m3u8
+CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
 CCTV-2,http://139.196.151.191:2051/rtp/239.45.1.109:5140
 CCTV-2,https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
 CCTV-2,https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8
